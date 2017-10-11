@@ -19,7 +19,7 @@ echo "helooooooo";
 
 <html>
 <head>
-<title>Body Armor Lookup</title>
+<title>Body Armor Lookupzzz</title>
 <style>
 	.pick{font-family:arial, 'verdana'; color:#007FFF; font-weight: bold; text-decoration: none}
 	.pick:hover{text-decoration: underline; color:#FF7F00 }
